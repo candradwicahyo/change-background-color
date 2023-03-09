@@ -20,4 +20,4 @@ dibuat menggunakan html, css dan javascript. program ini akan mengubah warna bac
 
 ![preview](https://github.com/candradwicahyo/change-background-color/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io) untuk mencoba demo
+[tekan link ini](https://candradwicahyo.github.io/change-background-color) untuk mencoba demo
